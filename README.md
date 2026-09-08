@@ -13,9 +13,6 @@ Enthusiastic software engineer focused on building robust, high-performance dist
 ---
 
 ### 🛠 Tech Stack & Tools
-
-### 🛠 Tech Stack & Tools
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,cs,js,ts,spring,postgres,redis,kafka,react,vite,html,css,tailwind,docker,kubernetes,git,linux,postman,idea,unity" />
