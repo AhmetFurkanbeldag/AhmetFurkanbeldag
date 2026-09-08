@@ -54,11 +54,7 @@ Enthusiastic software engineer focused on building robust, high-performance dist
 
 ---
 
-### 📊 GitHub Activity & Metrics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmetFurkanbeldag&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
