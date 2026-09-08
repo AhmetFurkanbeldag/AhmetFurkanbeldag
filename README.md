@@ -57,8 +57,7 @@ Enthusiastic software engineer focused on building robust, high-performance dist
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmetFurkanbeldag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmet's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetFurkanbeldag&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=AhmetFurkanbeldag&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
